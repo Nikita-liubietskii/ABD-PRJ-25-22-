@@ -69,5 +69,4 @@ The dataset is publicly available at University of California Irvine Machine Lea
 |58.| title_sentiment_polarity|Title polarity|полярность настроения заголовка|КолНепр|
 |59.| abs_title_subjectivity|Absolute subjectivity level|уровень абсолютной субъективности заголовка|КолНепр|
 |60.| abs_title_sentiment_polarity|Absolute polarity level|уровень абсолютой полярности заголовка|КолНепр|
-
 |61.| shares|Number of shares|кол-во ссылок|КолДискр|
